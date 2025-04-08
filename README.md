@@ -38,7 +38,7 @@ A responsive web application that helps users create personalized meal plans bas
 
 4. Run the application:
    ```
-   python Meal-Planner-Chat-Bot-main/app.py      #python app.py
+   python Meal-Planner-Chat-Bot-main/app.py    #python app.py
    ```
 
 5. Open your web browser and go to:
@@ -79,4 +79,6 @@ The application comes with a pre-loaded recipe database in `app.py`. You can ext
 - Meal plan export functionality
 - Integration with grocery delivery services
 
+## License
 
+MIT License
