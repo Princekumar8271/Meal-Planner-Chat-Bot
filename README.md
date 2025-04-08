@@ -79,6 +79,4 @@ The application comes with a pre-loaded recipe database in `app.py`. You can ext
 - Meal plan export functionality
 - Integration with grocery delivery services
 
-## License
 
-MIT License
